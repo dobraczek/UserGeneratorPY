@@ -13,7 +13,7 @@ Ukázková data virtuálního uživatele:
    "password":"E`$<|q=KyPy}a7J",
    "email":"jaroslav32@mujweb.cz",
    "phone":"736406339",
-   "nameday":"",
+   "nameday":"27.04.",
    "birthdate":"25.4.1958",
    "birthdate2":"1958-04-25",
    "age":"65",
