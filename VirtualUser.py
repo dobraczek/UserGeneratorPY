@@ -193,6 +193,7 @@ class VirtualUser:
         user['name'] = name['name']
         user['surname'] = surname['surname']
         user['nickname'] = nick['nick']
+        user['image'] = 'https://stahovani.cz/people.php?gender=' + str(self.sex) + '&age=' + str(birthday['age'])
         user['username'] = self.UserUsername(uname = name['name'])
         user['password'] = self.UserPassword()
         user['email'] = self.UserEmail(uname = name['name'], sname = surname['surname'])

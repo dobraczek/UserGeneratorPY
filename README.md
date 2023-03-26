@@ -2,6 +2,8 @@ Generátor lze využít například na naplnění testovací databáze uživatel
 
 Ukázková data virtuálního uživatele:
 
+https://stahovani.cz/VirtualUserGenerator/
+
 <pre>
 {
    "sex":"muž",
@@ -9,6 +11,7 @@ Ukázková data virtuálního uživatele:
    "name":"Jaroslav",
    "surname":"Vymazal",
    "nickname":"Siki",
+   "image":"https://stahovani.cz/people.php?gender=1&age=65",
    "username":"YAROSLAV37",
    "password":"E`$<|q=KyPy}a7J",
    "email":"jaroslav32@mujweb.cz",
